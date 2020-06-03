@@ -3,7 +3,7 @@ const yargs = require('yargs');
 const chalk = require('chalk');
 
 
-//create add command
+//ADDED COMMENTS
 yargs.command({
     command: 'add',
     describle: 'Add a note',
